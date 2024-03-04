@@ -12,3 +12,7 @@ For more information, refer to Shirinpour et al., Experimental Evaluation of Met
 Phase-Specific Transcranial Magnetic Stimulation, 2020, Journal of Neural Engineering, doi: https://doi.org/10.1088/1741-2552/ab9dba
 
 Correspondence: shiri008 -at- umn.edu (Sina Shirinpour), aopitz -at- umn.edu (Alex Opitz)
+
+For a further implementations of the approch by our lab see:
+Miles Wischnewski, Zachary J. Haigh, Sina Shirinpour, Ivan Alekseichuk, Alexander Opitz, The phase of sensorimotor mu and beta oscillations has the opposite effect on corticospinal excitability, Brain Stimulation, 2022.
+https://www.sciencedirect.com/science/article/pii/S1935861X22001838
