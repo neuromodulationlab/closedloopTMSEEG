@@ -11,4 +11,4 @@ Triggers to the TMS machine are delivered from the parallel port on the PC using
 The code runs in MATLAB (MathWorks) 2014b+ and requires the FieldTrip toolbox (https://github.com/fieldtrip/fieldtrip).
 
 For more information, refer to:
-Shirinpour, Alekseichuk, Mantell, Opitz (2020). Experimental Evaluation of Methods for Real-Time EEG Phase-Specific Transcranial Magnetic Stimulation. Journal of Neural Engineering, doi: https://doi.org/10.1088/1741-2552/ab9dba
+# Shirinpour, Alekseichuk, Mantell, Opitz (2020). Experimental Evaluation of Methods for Real-Time EEG Phase-Specific Transcranial Magnetic Stimulation. Journal of Neural Engineering, doi: https://doi.org/10.1088/1741-2552/ab9dba
